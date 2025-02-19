@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvaKhismatrao
 - 👀 I’m interested in Data Analytics, Collecting and Cleaning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to help people on projects
 - 😄 Pronouns: He/Him
 
