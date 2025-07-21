@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvaKhismatrao
 - 👀 I’m interested in Data Science, ML, FSD.
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Node JS.
 - 💞️ I’m looking to help people on projects
 - 😄 Pronouns: He/Him
 - 👨‍🎓I'm currently studying in B.Tech 3yr Year, CSE (Data Science)
